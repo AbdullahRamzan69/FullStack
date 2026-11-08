@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mongoose": "^9.11.4"
+    "mongoose": "^9.11.4",
+    "zod": "^4.6.7"
   }
 }
